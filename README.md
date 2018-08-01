@@ -1,6 +1,6 @@
 # Curso de R
 ## Nota 01
-* Notas de aula sobre o curso de R.
+* Notas de aula sobre o curso de R. - Isso gerará um conflito.
 - Nota 02
 - - Nota 03
 
